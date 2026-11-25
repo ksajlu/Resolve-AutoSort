@@ -41,4 +41,3 @@ Resolve AutoSort is free for personal and commercial use. Unauthorized redistrib
 ## Links
 
 * Instagram: [@ksajlu.avi](https://instagram.com/ksajlu.avi)
-* Email: [xyloooamv@gmail.com](mailto:xyloooamv@gmail.com)
