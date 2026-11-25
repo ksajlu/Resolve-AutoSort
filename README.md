@@ -4,7 +4,9 @@ Automated media organizer for **DaVinci Resolve** projects (`.drp`, `.otio`, `.x
 
 Resolve AutoSort scans your project files, detects referenced media assets and image sequences, categorizes files automatically, flags offline media, and copies or moves everything into a clean folder structure—optionally packing the result into a `.ZIP` archive and generating reports.
 
-<img width="690" height="915" alt="Untitled-1" src="https://github.com/user-attachments/assets/f506d560-07ed-40ea-abd5-95e014c6d1be" />
+<p align="center">
+  <img width="690" height="915" alt="Untitled-1" src="https://github.com/user-attachments/assets/f506d560-07ed-40ea-abd5-95e014c6d1be" />
+</p>
 
 ---
 
